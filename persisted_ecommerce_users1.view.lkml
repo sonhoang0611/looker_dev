@@ -3,7 +3,7 @@ view: persisted_ecommerce_users {
 
   dimension: id {
     primary_key: yes
-    type: number
+    type: numberasd
     sql: ${TABLE}.id ;;
   }
 
