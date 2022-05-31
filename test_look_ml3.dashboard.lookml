@@ -16,5 +16,5 @@
       Code: countries.code
       row: 2
       col: 0
-      width: 7
+      width: 8
       height: 4
