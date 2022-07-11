@@ -1,5 +1,5 @@
 - dashboard: new_dashboard
-  title: New Dashboard
+  title: New Dashboard 1
   layout: newspaper
   elements:
     - title: Sonnnnnnnnnn
