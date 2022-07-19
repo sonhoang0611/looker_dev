@@ -1,4 +1,5 @@
 view: testdbna_me {
+  // add ne
   sql_table_name: public."test-db-naMe" ;;
 
   dimension: test {
